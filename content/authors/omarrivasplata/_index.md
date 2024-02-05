@@ -19,9 +19,7 @@ interests:
   - Statistical Learning Theory
   - Risk bounds, PAC-Bayes
   - Optimisation & Certification
-  - Stochastic Approximations
-  - High-dimensional Probability & Statistics
-  - Mathematical Statistics
+  - Probabilistic Methods
 
   
 # Highlight the author in author lists? (true/false)
