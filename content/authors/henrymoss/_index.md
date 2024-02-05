@@ -12,6 +12,8 @@ organizations:
     url: "http://www.cst.cam.ac.uk"
   - name: "Webpage"
     url: "https://henrymoss.github.io/"
+  - name: "Email"
+    url: "mailto:h dot moss at damtp dot cam dot ac dot uk"
 # Interests to show in About widget
 interests:
   - Scalable Bayesian machine learning models to help scientists better understand the world around us
