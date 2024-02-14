@@ -5,7 +5,7 @@ lastmod: 2024-01-24T22:47:03+00:00
 draft: false
 weight: 4001
 event: "Projects 2024"
-authors: ["mauricioalvarez","henrymoss","vigneshgopakumar","timothynunn"]
+authors: ["mauricioalvarez","henrymoss","vigneshgopakumar","timothynunn", "stanislaspamela"]
 summary: "This project aims to pioneer interactive ML optimisation techniques to help scientists at the UK Atomic Energy Authority tackle the intricate design challenges inherent in developing sustainable fusion energy solutions and make informed decisions that can accelerate progress in nuclear fusion research.
 "
 ---
