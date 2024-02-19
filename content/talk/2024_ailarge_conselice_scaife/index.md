@@ -36,3 +36,8 @@ Ferreira, L., Conselice, C.J. et al. 2020. “Galaxy Merger Rates up to z~3 Usin
 
 Cheng, T.-Y., Li, N., Conselice, C.J., Aragon-Salamanca, A., Dye, S., Metcalf, R.B. 2020. “Identifying strong lenses with unsupervised machine learning using convolutional autoencoder”, Monthly Notices of the Royal Astronomical Society 494, 3750–3765. doi:10.1093/mnras/staa1015
 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/new-ai-applications-to-large-astronomical-data-sets/?p168687)
