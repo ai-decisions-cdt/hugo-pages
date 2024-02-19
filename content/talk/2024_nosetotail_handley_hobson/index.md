@@ -35,3 +35,7 @@ https://arxiv.org/abs/2210.07409
 https://arxiv.org/abs/2004.12211
 https://arxiv.org/abs/2205.11151
 [GAMBIT]: https://gambitbsm.org/
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/nose-to-tail-emulation-with-nested-sampling-for-online-decision-making/?p168707)
