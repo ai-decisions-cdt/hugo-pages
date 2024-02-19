@@ -37,3 +37,8 @@ iDMEu: https://indico.cern.ch/category/12787/
 ESCAPE: https://projectescape.eu/dark-matter-test-science-project
 ESCAPE Dark Matter Science Project: https://eoscfuture.eu/data/dark-matter/
 EVERSE: https://esciencelab.org.uk/projects/everse/
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/real-time-decision-making-at-40-mhz-at-the-large-hadron-collider/?p168696)
