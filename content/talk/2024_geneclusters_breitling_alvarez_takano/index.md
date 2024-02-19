@@ -29,3 +29,7 @@ Deliverables: Each of the work packages (a–c) of this project is foreseen to r
 3. Del Carratore F, Zych K, Cummings M, Takano E, Medema MH, Breitling R (2019): Computational identification of co-evolving multi-gene modules in microbial biosynthetic gene clusters. Communications Biology 2:83. [This proof-of-concept study established some of the statistical methodology on which this project will be building.]
 
 4. Moss H, Beck D, Gonzalez J, Leslie D S, Rayson P (2020): BOSS: Bayesian Optimization over String Spaces. Advances in Neural Information Processing Systems 33. 
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/artificial-intelligence-for-the-discovery-and-engineering-of-microbial-biosynthetic-gene-clusters/?p168590)
