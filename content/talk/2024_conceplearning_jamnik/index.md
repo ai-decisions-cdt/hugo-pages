@@ -30,3 +30,8 @@ There are many aspect of concept learning that still need addressing. In this pr
 [4] Oikarinen, Tuomas, et al. "Label-Free Concept Bottleneck Models."  ICLR  (2023).
 
 [5] Kim, Eunji, et al. "Probabilistic Concept Bottleneck Models."  ICML  (2023).
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/explainability-of-deep-learning-models-the-concept-learning-approach/?p168706)
