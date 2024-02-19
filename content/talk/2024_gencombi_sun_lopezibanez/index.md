@@ -22,3 +22,8 @@ Specifically, this project tackles the following significant research challenges
 Sergio Valcarcel Macua, Shan Zheng Tan, Ida Momennejad, Katja Hofmann, Sam Devlin, https://openreview.net/pdf?id=Pv1GPQzRrC8
 
 2. Effective Generation of Feasible Solutions for Integer Programming via Guided Diffusion, Hao Zeng, Jiaqi Wang, Avirup Das, Junying He, Kunpeng Han, Haoyuan Hu, Mingfei Sun, https://openreview.net/pdf?id=joMMM9eadc 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/generative-models-for-large-scale-combinatorial-decision-making/?p168692)
