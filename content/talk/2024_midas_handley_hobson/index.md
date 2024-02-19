@@ -29,3 +29,7 @@ OODA loop: https://willhandley.co.uk/dstl/will_handley_2023_OFEME.pdf
 https://arxiv.org/abs/2205.15570
 https://arxiv.org/abs/2305.11241
 https://arxiv.org/abs/2101.04525
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/midas-maximum-information-data-acquisition-strategies/?p168708)
