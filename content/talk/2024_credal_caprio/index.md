@@ -41,4 +41,6 @@ Introductory slides to the field of Credal/Imprecise Machine Learning, and its r
 [9] Conformal Prediction under Ambiguous Ground Truth; Stutz, Roy, Matejovicova, Strachan, Cemgil, Doucet; https://arxiv.org/pdf/2307.09302v1.pdf
 
 
-**More details in** [**Find A PhD**](https://www.findaphd.com/phds/project/relationship-between-conformal-prediction-and-credal-probabilistic-machine-learning/?p168861)
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/relationship-between-conformal-prediction-and-credal-probabilistic-machine-learning/?p168861)
