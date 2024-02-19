@@ -31,3 +31,8 @@ deep convolutional neural networks in the NEXT experiment, JHEP 01 189
 - R. Acciarri et al. (MicroBooNE Collaboration), (2017), Convolutional Neural Networks Applied
 to Neutrino Events in a Liquid Argon Time Projection Chamber”, arXiv:1611.05531, JINST 12,
 P03011
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/searching-for-new-physics-with-neutrinos-in-a-novel-pixel-detector/?p168695)
