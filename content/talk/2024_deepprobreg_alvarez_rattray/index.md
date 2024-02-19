@@ -26,3 +26,7 @@ In the proposed project the student will investigate and adapt machine learning 
 [4] Croix, J. C., Durrande, N., & Alvarez, M. A. (2021). Bayesian inversion of a diffusion model with application to biology. Journal of Mathematical Biology, 83, 1-23.
 
 [5] Kouadri Boudjelthia, I., Milite, S., El Kazwini, N., Fernandez-Mateos, J., Valeri, N., Huang, Y., ... & Sanguinetti, G. (2023). NeuroVelo: interpretable learning of cellular dynamics from single-cell transcriptomic data. bioRxiv, 2023-11.
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/using-deep-probabilistic-machine-learning-to-understand-cellular-decision-making/?p168685)
