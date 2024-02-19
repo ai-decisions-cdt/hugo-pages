@@ -26,3 +26,7 @@ The outcome of this project will enable the parameterization of fast and actiona
 ***References***
 
 [1] M.D. White, A. Tarakanov, P.J. Withers, C.P. Race, K.J.H. Law, Digital fingerprinting of microstructures, Computational Materials Science, Volume 218, 2023.
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/compressed-descriptors-of-damage-microstructures-in-fusion-materials/?p168699)
