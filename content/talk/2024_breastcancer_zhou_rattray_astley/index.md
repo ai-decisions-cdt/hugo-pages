@@ -25,3 +25,8 @@ At the core of our methodology is the utilization of probabilistic machine learn
 3.	Squires, Steven, et al. "Automatic assessment of mammographic density using a deep transfer learning method." Journal of Medical Imaging 10.2 (2023): 024502-024502. https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-2/024502/Automatic-assessment-of-mammographic-density-using-a-deep-transfer-learning/10.1117/1.JMI.10.2.024502.full 
 4.	Joshi, Chaitanya K., et al. "On the expressive power of geometric graph neural networks." arXiv preprint arXiv:2301.09308 (2023). https://arxiv.org/abs/2301.09308
 5.	Georgaka, Sokratia, et al. "CellPie: a fast spatial transcriptomics topic discovery method via joint factorization of gene expression and imaging data." bioRxiv (2023): 2023-09. https://www.biorxiv.org/content/10.1101/2023.09.29.560213v1.abstract 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/advancing-breast-cancer-prevention-integrating-interpretable-machine-learning-and-expert-insights-to-enhance-decision-making-in-prevention-therapy-strategy-development/?p168691)
