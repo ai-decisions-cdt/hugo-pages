@@ -29,3 +29,7 @@ The student will be co-supervised by a member of the Advanced Methodology and Da
 https://pubmed.ncbi.nlm.nih.gov/33576019/ (collapsibility review)
 https://jmlr.org/papers/v18/17-514.html (stability of variable selection review)
 https://arxiv.org/abs/2301.03962 (info geometry review)
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/reducing-uncertainty-in-causal-effect-measures-via-information-geometry/?p168587)
