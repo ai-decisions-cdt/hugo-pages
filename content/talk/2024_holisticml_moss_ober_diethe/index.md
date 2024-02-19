@@ -27,3 +27,8 @@ AntBO: Towards Real-World Automated Antibody Design with Combinatorial Bayesian 
 
 Initial promising work on using human interactions to help guide ML-driven optimisation:
 Preference Exploration for Efficient Bayesian Optimization with Multiple Outcomes. Lin et al. International Conference on Artificial Intelligence and Statistics 2023.
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/holistic-ml-guided-design-for-the-high-throughput-optimisation-of-biologics/?p168705)
