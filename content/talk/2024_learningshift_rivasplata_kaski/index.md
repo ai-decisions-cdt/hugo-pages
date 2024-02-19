@@ -40,3 +40,7 @@ https://proceedings.mlr.press/v151/slowik22a/slowik22a.pdf
 
 Mathematical foundations of robust and distributionally robust optimization.
 https://www.researchgate.net/profile/Jianzhe-Zhen-2/publication/351298216_Mathematical_Foundations_of_Robust_and_Distributionally_Robust_Optimization/links/617fc4100be8ec17a95778a6/Mathematical-Foundations-of-Robust-and-Distributionally-Robust-Optimization.pdf
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/learning-theory-and-methods-for-novel-types-of-distributional-shifts/?p168698)
