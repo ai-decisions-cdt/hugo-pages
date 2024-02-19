@@ -23,3 +23,8 @@ We will test the principles in running the Design-Build-Test-Learn (DBTL)  loops
 2 Human-in-the-loop assisted de novo molecular design, https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00667-8 
 3 Differentiable User Models, https://proceedings.mlr.press/v216/hamalainen23a/hamalainen23a.pdf 
 4 Approximate Bayesian Computation with Domain Expert in the Loop, https://proceedings.mlr.press/v162/bharti22a.html 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/human-in-the-loop-generative-models-for-experimental-design/?p168697)
