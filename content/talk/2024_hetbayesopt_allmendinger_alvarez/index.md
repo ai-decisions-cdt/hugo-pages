@@ -24,3 +24,7 @@ In this PhD project, we propose to generalize recent advances in machine learnin
 [3] Blank, J. and Deb, K., 2022. Handling constrained multi-objective optimization problems with heterogeneous evaluation times: proof-of-principle results. Memetic Computing, 14(2), pp.135-150.
 
 [4] Moreno-Muñoz, P., Artés, A. and Alvarez, M., 2018. Heterogeneous multi-output Gaussian process prediction. Advances in neural information processing systems, 31.
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/heterogenous-bayesian-optimization/?d1022p156384)
