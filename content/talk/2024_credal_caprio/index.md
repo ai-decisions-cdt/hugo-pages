@@ -44,3 +44,8 @@ Introductory slides to the field of Credal/Imprecise Machine Learning, and its r
 ## Additional information
 
 Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/relationship-between-conformal-prediction-and-credal-probabilistic-machine-learning/?p168861)
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/relationship-between-conformal-prediction-and-credal-probabilistic-machine-learning/?p168861)
