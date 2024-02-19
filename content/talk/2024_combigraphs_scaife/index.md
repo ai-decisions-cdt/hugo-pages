@@ -16,3 +16,7 @@ Modern radio telescopes are often built as arrays of antennas that operate inter
 https://arxiv.org/pdf/1912.02175.pdf
 https://arxiv.org/abs/2302.08224
 https://iopscience.iop.org/article/10.1086/422356/pdf
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/combinatorial-optimization-on-graphs-for-science-operations-in-radio-astronomy/?p168694)
