@@ -26,3 +26,8 @@ The project combines theoretical development, computational modeling, and experi
 3. Caasenbrood, B., Pogromsky, A., & Nijmeijer, H. (2020, May). A computational design framework for pressure-driven soft robots through nonlinear topology optimization. In 2020 3rd IEEE international conference on soft robotics (RoboSoft) (pp. 633-638). IEEE.
 4. Ivanova, D. R., Foster, A., Kleinegesse, S., Gutmann, M. U., & Rainforth, T. (2021). Implicit deep adaptive design: policy-based experimental design without likelihoods. Advances in Neural Information Processing Systems, 34, 25785-25798.
 5. Hennig, P., Osborne, M. A., & Girolami, M. (2015). Probabilistic numerics and uncertainty in computations. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 471(2179), 20150142.
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/ai-driven-design-with-application-to-soft-robotics/?p168570)
