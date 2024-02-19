@@ -25,3 +25,8 @@ The methodology of this project involves integrating several cutting-edge AI tec
 [2] Trust Region Bounds for Decentralized PPO Under Non-stationarity, AAMAS 2023, https://dl.acm.org/doi/abs/10.5555/3545946.3598613 
 [3] Imitation human behaviour with diffusion models, ICLR 2023, https://openreview.net/pdf?id=Pv1GPQzRrC8
 [4] Uni[MASK]: Unified Inference in Sequential Decision Problems, NeurIPS 2022, https://proceedings.neurips.cc/paper_files/paper/2022/file/e58fa6a7b431e634e0fd125e225ad10c-Paper-Conference.pdf 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/generative-modeling-for-engineering-design/?p168701)
