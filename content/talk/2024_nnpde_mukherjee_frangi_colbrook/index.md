@@ -48,3 +48,8 @@ Lastly, we note that similar questions as above can also be asked in the context
 [RPO23]  Deep Ray, Orazio Pinti, and Assad A Oberai. [Deep learning and computational physics (lecture notes).](https://doi.org/10.48550/arXiv.2301.00942), 2023.
 
 [ZLR+17]  Chiyuan Zhang, Qianli Liao, Alexander Rakhlin, Karthik Sridharan, Brando Miranda, Noah Golowich, and Tomaso Poggio. Musings on deep learning: Properties of sgd. Technical report, Center for Brains, Minds and Machines (CBMM), 2017. 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/understanding-the-training-of-neural-nets-to-solve-pdes/?p168684)
