@@ -52,3 +52,8 @@ http://doi.org/10.1016/j.cor.2014.05.020
 
 [12] Laurens Bliek, Paulo da Costa, Reza Refaei Afshar, Robbert Reijnen, Yingqian Zhang, Tom Catshoek, Daniël Vos, Sicco Verwer, Fynn Schmitt-Ulms, André Hottung, Tapan Shah, Meinolf Sellmann, Kevin Tierney, Carl Perreault-Lafleur, Caroline Leboeuf, Federico Bobbio, Justine Pepin, Warley Almeida Silva, Ricardo Gama, Hugo L. Fernandes, Martin Zaefferer, Manuel López-Ibáñez, and Ekhine Irurozki. The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems. Artificial Intelligence, 319:103918, 2023.
 http://doi.org/10.1016/j.artint.2023.103918 
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/ai-powered-heuristics-for-heavy-industry-mathematical-optimization/?p168700)
