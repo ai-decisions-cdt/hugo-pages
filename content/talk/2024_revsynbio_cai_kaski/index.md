@@ -31,3 +31,8 @@ An AI-assisted virtual laboratory for engineering biology is in development, bas
 6 Luo, Y. et al. ACS Synth. Biol. 11, 579–586 (2022)
 7 James, J. S. et al. ACS Synth. Biol. 11, 587–595 (2022)
 8 Peuter, S. D. et al. Proc. AAAI Conf. Artif. Intell. 37, 11551–11559 (2023)
+
+
+## Additional information
+
+Additional information in [**Find A PhD**](https://www.findaphd.com/phds/project/revolutionizing-synthetic-biology-with-ai-enhanced-manufacturing-workflows/?p164085)
