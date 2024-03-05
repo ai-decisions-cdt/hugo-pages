@@ -5,7 +5,7 @@ lastmod: 2024-01-24T22:47:03+00:00
 draft: false
 weight: 4001
 event: "Projects 2024"
-authors: ["mingfeisun","manuellopezibanez","nicolasalvarez","silvinofernandez"]
+authors: ["mingfeisun","manuellopezibanez","nicolasalvarez","silvinofernandez", "pablovalledor"]
 summary: "This project will explore the use of a transformer-based architecture, inspired by state-of-the-art LLMs, as a scheduling method for industrial production facilities. This architecture would learn from historical data and generate new schedules in a similar way to how they generate text, implicitly learning the scheduling rules from the data. This approach will be an alternative (or complement) optimization meta-heuristics. This project will explore cutting-edge technologies from academia but with an strong link with industry."
 ---
 
