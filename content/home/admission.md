@@ -16,3 +16,9 @@ When asked about "Research details", applicants can use the project details they
 When asked about "Funding sources", applicants can choose the option "Research council"; most of the other fields in this section are not mandatory.
 
 Regarding the Supporting Statement, it is a one or two page statement outlining your motivation to pursue postgraduate research, the area(s) of research you’re interested in, why you want to undertake postgraduate research at Manchester/Cambridge, any relevant research or work experience, the key findings of your previous research experience, and techniques and skills you’ve developed.  
+
+### Key dates:
+
+- Application deadline: March 31, 2024.
+- Interviews: late April, early May, 2024.
+- Decisions: late May, early June, 2024.
