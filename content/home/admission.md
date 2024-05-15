@@ -17,8 +17,17 @@ When asked about "Funding sources", applicants can choose the option "Research c
 
 Regarding the Supporting Statement, it is a one or two page statement outlining your motivation to pursue postgraduate research, the area(s) of research you’re interested in, why you want to undertake postgraduate research at Manchester/Cambridge, any relevant research or work experience, the key findings of your previous research experience, and techniques and skills you’ve developed.  
 
-### Key dates:
+### First round of admissions (key dates):
 
 - Application deadline: March 31, 2024.
 - Interviews: late April, early May, 2024.
 - Decisions: late May, early June, 2024.
+
+### Second round of admissions (key dates):
+
+**This second round will only accept home applicants** 
+
+- Application deadline: June 17, 2024.
+- Interviews: late June, early July, 2024.
+- Decisions: mid July, 2024.
+
