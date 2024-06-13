@@ -14,7 +14,7 @@
     weight = 11
 
 [[main]]
-    namle = "Admission"
+    name = "Admission"
     url = "#admission"
     weight = 12
 
