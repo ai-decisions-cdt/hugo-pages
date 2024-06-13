@@ -16,10 +16,10 @@ organizations:
 # Interests to show in About widget
 interests:
   - Digital Twinning using Deep Learning, Manifold Learning, Representation Learning
-  - Computational Phenomics at Scale - Advanced Data Fusion and Data Integration
-  - Ensemble Simulations for In Silico Trials - Operator Learning and PDE Solving by Neural Nets
+  - Computational Phenomics at Scale, Advanced Data Fusion and Data Integration
+  - Ensemble Simulations for In Silico Trials, Operator Learning and PDE Solving by Neural Nets
   - Scientific Machine Learning and Acceleration of Multiphysics Problems in Computational Physiology
-  - In silico trials: Uncertainty Quantification, Optimal Experiment Design, Surrogate Modelling
+  - In silico trials, Uncertainty Quantification, Optimal Experiment Design, Surrogate Modelling
 
   
 # Highlight the author in author lists? (true/false)
