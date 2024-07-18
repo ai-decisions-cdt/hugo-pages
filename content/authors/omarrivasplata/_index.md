@@ -6,12 +6,12 @@ draft: false
 weight: 3002
 active: true
 superuser: false
-role: "Incoming Senior Lecturer in Machine Learning"
+role: "Senior Lecturer in Machine Learning"
 organizations:
   - name: "University of Manchester"
     url: "https://www.manchester.ac.uk/"
   - name: "Personal Webpage"
-    url: "https://www.homepages.ucl.ac.uk/~ucabriv/"
+    url: "https://personalpages.manchester.ac.uk/staff/omar.rivasplata/"
 
 # Interests to show in About widget
 interests:
@@ -31,9 +31,9 @@ user_groups:
 - Supervisor
 ---
 
-I am an incoming Senior Lecturer (Associate Professor) in Machine Learning in the Department of Computer Science at the University of Manchester, where I will be a member of the [Manchester Centre for AI Fundamentals](https://www.idsai.manchester.ac.uk/research/centre-for-ai-fundamentals/). 
+I am Associate Professor (Senior Lecturer) in Machine Learning in the Department of Computer Science at the University of Manchester. I am also a member of the [Centre for AI Fundamentals](https://ai-fun.manchester.ac.uk/) and a supervisor in the [UKRI AI CDT in Decision Making for Complex Systems](https://www.ai-decisions-cdt.ac.uk/). 
 
-For about the first half of 2024 I continue to be a Senior Research Fellow in the Department of Statistical Science at University College London, where I lead the research group [DELTA](https://www.homepages.ucl.ac.uk/~ucabriv/delta.html).
+My research is on machine learning, theory and practice. That said, I tend to have a broad interest in various aspects of the mathematical and statistical foundations of machine learning and AI in general. In the limit of tending to praxis, I work on designing strategies to train and certify machine learning models. Previously, I have led or been a contributor to projects on offline reinforcement learning, generative models, PAC-Bayes bounds for deep learning and kernel classifiers, among other.
 
-My work is on machine learning research. This field is fascinating! One of the things I enjoy most about it being the confluence of maths and stats, and computer science experiments, to answer research questions. Besides statistical learning I am interested also in other learning frameworks such as online learning and reinforcement learning, and of course deep learning, which is quite popular these days. It looks that optimisation is one pervasive theme across machine learning theory and practice, though it comes up in such a variety of flavours and colours that it isn't boring. It reminds of the [least action principle](https://en.wikipedia.org/wiki/Stationary-action_principle) of [Maupertuis](https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis), saying that "everything happens as if some quantity was to be made as small as possible." (This principle has lead the optimists to believe that we live in [the best possible world](https://www.google.co.uk/books/edition/_/WGOmFLikLrkC?hl=en).) But just optimisation doesn't quite do it for machine learning... to really be talking about learning one has to pay attention to generalisation!
+The field of machine learning research is fascinating! One of the things I enjoy most about my work being the confluence of maths and stats, and computer experiments with collaborators, to answer questions about the optimisation and certification of machine learning models. Besides statistical learning I am interested also in online learning and reinforcement learning. Of course I am interested in deep learning, which is quite popular these days. Optimisation is a pervasive theme across machine learning theory and practice, though it comes up in such a variety of flavours and colours that it isn't boring. It reminds of the [least action principle](https://en.wikipedia.org/wiki/Stationary-action_principle) of [Maupertuis](https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis), saying that "everything happens as if some quantity was to be made as small as possible." (This principle has lead the optimists to believe that we live in [the best possible world](https://www.google.co.uk/books/edition/_/WGOmFLikLrkC?hl=en).) But just optimisation doesn't quite do it for machine learning... to really be talking about learning one has to pay attention to learner's performance beyond the data used for training; so certification is very important!
 
