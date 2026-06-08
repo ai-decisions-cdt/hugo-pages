@@ -24,6 +24,11 @@
 #  weight = 20
 
 [[main]]
+    name = "Conference"
+    url = "#conference"
+    weight = 15
+
+[[main]]
   name = "People"
   url = "#people"
   weight = 30
